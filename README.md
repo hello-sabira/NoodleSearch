@@ -1,7 +1,7 @@
 # Noodle Search Engine
 
-Yet another search engine, but definitely better than Google.😤 
-Built with: React, RapidApi, Tailwind CSS. 
+Yet another search engine, but definitely better than Google.😤 <br>
+Built with: React, RapidApi, Tailwind CSS. <br>
 Sorry, if it doesn't work anymore, cuz I have free subscription of rapidapi 😭
 
 ## Getting Started with Create React App
